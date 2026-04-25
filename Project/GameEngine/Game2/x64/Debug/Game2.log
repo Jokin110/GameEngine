@@ -1,0 +1,51 @@
+﻿  Game2Launcher.cpp
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(22,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Launcher.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(22,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Launcher.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(24,151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Launcher.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(24,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Launcher.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(25,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Launcher.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(25,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Launcher.cpp')
+  
+  Game2Manager.cpp
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(22,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Manager.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(22,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Manager.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(24,151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Manager.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(24,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Manager.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(25,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Manager.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Include\Game2Manager.h(25,96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../../../Internal/Source/Game2Manager.cpp')
+  
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Source\Game2Manager.cpp(7,187): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Source\Game2Manager.cpp(7,134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Source\Game2Manager.cpp(11,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Source\Game2Manager.cpp(13,130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Source\Game2Manager.cpp(24,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Source\Game2Manager.cpp(55,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Obstacle.cpp
+  Player.cpp
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Source\Player.cpp(14,135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Source\Player.cpp(14,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jokin\Documents\GitHub\GameEngine\Internal\Source\Player.cpp(66,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Game2.vcxproj -> C:\Users\Jokin\Documents\GitHub\GameEngine\Project\GameEngine\x64\Debug\Game2.lib

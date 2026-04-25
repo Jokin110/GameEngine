@@ -1,0 +1,10 @@
+TotalPoints
+10
+highscore
+15
+--------
+FloatTest
+12.3
+--------
+StringTest
+Inigo
