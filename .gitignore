@@ -32,3 +32,4 @@
 *.app
 
 **/.vs/
+Project/GameEngine/x64/Debug/data.txt
